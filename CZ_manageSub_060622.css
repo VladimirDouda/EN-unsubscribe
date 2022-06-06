@@ -7687,5 +7687,5 @@ div[class*="__contactDetails"] {
 }
 /* Icons before questions */
 .en__field--494293::before {
-  content: url(https://vladimirdouda.github.io/EN-unsubscribe/email.png);
+  content: "test";
 }

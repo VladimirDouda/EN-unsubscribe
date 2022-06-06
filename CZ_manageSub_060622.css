@@ -7686,6 +7686,3 @@ div[class*="__contactDetails"] {
   margin-top: 80px;
 }
 /* Icons before questions */
-label::before {
-  content: "test";
-}

@@ -7682,3 +7682,6 @@ div[class*="__contactDetails"] {
   font-size: 1rem;
   line-height: 22px;
 }
+.row-preference {
+  margin-top: 80px;
+}

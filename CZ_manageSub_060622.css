@@ -7685,3 +7685,7 @@ div[class*="__contactDetails"] {
 .row-preference {
   margin-top: 80px;
 }
+/* Icons before questions */
+.en__field--494293::before {
+  content: url(https://vladimirdouda.github.io/EN-unsubscribe/email.png);
+}
